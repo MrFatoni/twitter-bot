@@ -1,0 +1,30 @@
+{
+  "name": "twitter-bot",
+  "version": "0.0.1",
+  "description": "Simple Twitter Bot written in Node.js using Twit.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaganGanesh/twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "nodejs",
+    "twit",
+    "retweet",
+    "favorite"
+  ],
+  "author": "Jagan Ganesh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JaganGanesh/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/JaganGanesh/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
